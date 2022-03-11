@@ -1,0 +1,32 @@
+.jumbotron{
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    margin-top: 80px;
+}
+.liste a{
+    width: 300px;
+    margin: auto;
+}
+.logo{
+    color: brown;
+}
+.logo:hover{
+    color: rgb(126, 12, 12);
+}
+
+.card{
+    width: 17rem;
+    margin: 15px 15px;
+}
+.card .btn{
+    margin-bottom: 5px;
+}
+.card .text-muted{
+    margin-top: 3px;
+}
+.cardH{
+    width: 100%;
+    margin: auto;
+    
+}
